@@ -226,9 +226,7 @@ Para suporte técnico:
 - Consulte os logs de erro
 - Entre em contato com a equipe de desenvolvimento
 
-## 📄 Licença
 
-Este projeto foi desenvolvido para a Embrapa Meio-Norte e está sujeito às políticas internas da instituição.
 
 ## 🔄 Atualizações
 
@@ -239,7 +237,3 @@ Este projeto foi desenvolvido para a Embrapa Meio-Norte e está sujeito às pol�
 - Análises estatísticas básicas
 - Sistema de alertas automáticos
 
----
-
-**Desenvolvido para Embrapa Meio-Norte** 🌱
-Sistema de Gestão de PD&I e Processos Administrativos

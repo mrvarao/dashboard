@@ -1,0 +1,66 @@
+🚀 COMANDOS GIT PARA CRIAR REPOSITÓRIO DASHBOARD EMBRAPA
+
+=== PASSO 1: CRIAR REPOSITÓRIO NO GITHUB ===
+1. Acesse: https://github.com
+2. Clique em "New repository"
+3. Nome: dashboard-embrapa-meio-norte
+4. Descrição: Sistema de gestão de PD&I da Embrapa Meio-Norte desenvolvido em Python/Streamlit
+5. Marque: Public
+6. NÃO marque: Add README, .gitignore, license
+7. Clique: "Create repository"
+
+=== PASSO 2: EXECUTAR COMANDOS NO TERMINAL ===
+Copie e cole os comandos abaixo (um por vez):
+
+git init
+
+git add .
+
+git commit -m "🌱 Dashboard Embrapa Meio-Norte - Sistema completo de gestão PD&I
+
+✨ Funcionalidades principais:
+- Sistema de autenticação com 3 tipos de usuários (Admin, Pesquisador, Gestor)
+- Gestão completa de projetos de pesquisa e desenvolvimento
+- Administração de funcionários, eventos e treinamentos
+- KPIs e indicadores de desempenho personalizáveis
+- Gestão de publicações científicas e dados experimentais
+- Sistema de alertas e notificações automáticas
+- Exportação de relatórios em múltiplos formatos
+- Interface web responsiva desenvolvida em Streamlit
+
+🚀 Como executar:
+- python EXECUTAR_DASHBOARD.py
+- Acesse: http://localhost:8501
+- Login: admin / admin123
+
+🔧 Tecnologias:
+- Python 3.8+
+- Streamlit
+- Pandas
+- Plotly
+- SQLite
+
+📊 Sistema completo para gestão de PD&I da Embrapa Meio-Norte"
+
+=== PASSO 3: CONECTAR COM GITHUB ===
+SUBSTITUA "SEU_USUARIO" pelo seu username do GitHub:
+
+git remote add origin https://github.com/SEU_USUARIO/dashboard-embrapa-meio-norte.git
+
+git branch -M main
+
+git push -u origin main
+
+=== EXEMPLO DE URL FINAL ===
+https://github.com/SEU_USUARIO/dashboard-embrapa-meio-norte
+
+=== COMANDOS PARA ATUALIZAÇÕES FUTURAS ===
+git add .
+git commit -m "Descrição das mudanças"
+git push
+
+=== VERIFICAÇÃO ===
+✅ Repositório criado no GitHub
+✅ Todos os arquivos enviados
+✅ README.md sendo exibido
+✅ Repositório público e acessível
